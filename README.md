@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.gif" width="100%" alt="Header Banner" />
+  <img src="video games art GIF by undungeon - Find & Share on GIPHY.gif" width="100%" alt="Header Banner" />
 </p>
 
 <div align="center">
