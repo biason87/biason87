@@ -10,15 +10,7 @@
 
 ---
 
-## 🌐 Connect with Me
 
-<p align="center">
-  <a href="mailto:00127872@aluno.uniso.br">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
 
 ## 💻 Tech Stack
 
