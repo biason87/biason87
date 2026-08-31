@@ -1,43 +1,45 @@
 <div align="center">
 
-<!-- Banner de Capa -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-db03a200-a427-11eb-8653-319fe18c95c2.gif" width="100%" alt="Header Banner" />
+# Hi 👋 I'm Ketilyn Biason
 
-# Olá, eu sou a Ketilyn Biason! 👋
-
-### 🚀 Product Owner & Desenvolvedora Front-end | UNISO
-
-</div>
+### Product Owner & Front-end Developer | UNISO
 
 ---
 
-## 👩‍💻 Sobre Mim
+## 🌐 Connect with Me
 
-* 🎓 Cursando **Análise e Desenvolvimento de Sistemas** (2º semestre) na **Universidade de Sorocaba (UNISO)**[cite: 1].
-* 📚 Realizando cursos complementares para aprofundamento prático nas áreas de **Banco de Dados**, **Inteligências Artificiais** e **Power BI**.
-* 🛠️ Foco em unir desenvolvimento web, análise de dados e novas tecnologias para a criação de soluções eficientes e de alto impacto.
-
----
-
-<div align="center">
-
-## 🤝 Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/biason87)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ketilyn-biason)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:00127872@aluno.uniso.br)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ketilyn-biason)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/biason87)
+[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:00127872@aluno.uniso.br)
 
 ---
 
 ## 💻 Tech Stack
 
-<!-- Linha 1: Linguagens & Web -->
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,vite,tailwind" />
+<!-- Ícones arredondados das tecnologias principais -->
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,vite,tailwind,mysql,git,github,vscode,figma,vercel,gcp" />
 
-<br>
+<br><br>
 
-<!-- Linha 2: Banco de Dados, Ferramentas & Cloud -->
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma,vercel,gcp" />
+<!-- Badges coloridas por categoria/ferramenta -->
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+
+![Product Owner](https://img.shields.io/badge/Product_Owner-4A154B?style=for-the-badge)
+![Kanban](https://img.shields.io/badge/Kanban_Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
+
+## 👩‍💻 About Me
+
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** (2º semestre) na **Universidade de Sorocaba (UNISO)**[cite: 3].
+- 📚 Me aprofundando em **Banco de Dados**, **Inteligência Artificial** e **Power BI**.
+- 🛠️ Foco em unir desenvolvimento web, análise de dados e novas tecnologias para criar soluções de alto impacto.
 
 ---
 
@@ -48,19 +50,13 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biason87&layout=compact&theme=dark&hide_border=true"/>
 </div>
 
-</div>
-
 ---
 
-## 🩸 Projeto em Destaque: DoeFácil
+## 🩸 Featured Project: DoeFácil
 
-Plataforma digital para incentivo à doação de sangue e geolocalização de hemocentros em tempo real.
-* **Minha Atuação:** Product Owner (P.O.) e Desenvolvedora.
-* **Link da Aplicação:** [doefacil-ecru.vercel.app](https://doefacil-ecru.vercel.app)
-* **Repositório do Código:** [github.com/biason87/doefacil](https://github.com/biason87/doefacil)
+Plataforma digital para incentivo à doação de sangue e geolocalização de hemocentros em tempo real[cite: 3].
+- **Papel:** Product Owner (P.O.) e Desenvolvedora[cite: 3].
+- 🔗 **Deploy no ar:** [doefacil-ecru.vercel.app](https://doefacil-ecru.vercel.app)
+- 📁 **Código no GitHub:** [github.com/biason87/doefacil](https://github.com/biason87/doefacil)
 
-<br>
-
-<div align="center">
-  <sub>Desenvolvido por Kety</sub>
 </div>
