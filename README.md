@@ -47,7 +47,7 @@
 
 <font face="sans-serif">
 
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** (2º semestre) na **Universidade de Sorocaba (UNISO)**[cite: 2].
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** (2º semestre) na **Universidade de Sorocaba (UNISO)**.
 - 📚 Me aprofundando em **Banco de Dados**, **Inteligência Artificial** e **Power BI**.
 - 🛠️ Foco em unir desenvolvimento web, análise de dados e novas tecnologias para criar soluções de alto impacto.
 
@@ -68,8 +68,8 @@
 
 <font face="sans-serif">
 
-Plataforma digital para incentivo à doação de sangue e geolocalização de hemocentros em tempo real[cite: 2].
-- **Papel:** Product Owner (P.O.) e Desenvolvedora[cite: 2].
+Plataforma digital para incentivo à doação de sangue e geolocalização de hemocentros em tempo real.
+- **Papel:** Product Owner (P.O.) e Desenvolvedora.
 - 🔗 **Deploy no ar:** [doefacil-ecru.vercel.app](https://doefacil-ecru.vercel.app)
 - 📁 **Código no GitHub:** [github.com/biason87/doefacil](https://github.com/biason87/doefacil)
 
