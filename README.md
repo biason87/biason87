@@ -58,7 +58,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="Pixel Art Gallery.gif" width="120px" alt="Pixel Art Decor" />
+  <img src="Pixel Art Gallery.gif" width="100%" alt="Pixel Art Banner" />
 </p>
 
 <p align="center">
