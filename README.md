@@ -54,13 +54,13 @@
 
 ## 🩸 Projeto em Destaque: DoeFácil
 
-Plataforma digital para incentivo à doação de sangue e geolocalização de hemocentros em tempo real[cite: 1].
-* **Minha Atuação:** Product Owner (P.O.) e Desenvolvedora[cite: 1].
+Plataforma digital para incentivo à doação de sangue e geolocalização de hemocentros em tempo real.
+* **Minha Atuação:** Product Owner (P.O.) e Desenvolvedora.
 * **Link da Aplicação:** [doefacil-ecru.vercel.app](https://doefacil-ecru.vercel.app)
 * **Repositório do Código:** [github.com/biason87/doefacil](https://github.com/biason87/doefacil)
 
 <br>
 
 <div align="center">
-  <sub>Desenvolvido com 💜 por Ketilyn Biason</sub>
+  <sub>Desenvolvido por Kety</sub>
 </div>
