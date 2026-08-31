@@ -1,10 +1,9 @@
+<h1 align="center">Hi 👋 I'm Ketilyn Biason</h1>
+
 <p align="center">
-  <img src="video games art GIF by undungeon - Find & Share on GIPHY.gif" width="100%" alt="Header Banner" />
+  <img src="video games art GIF by undungeon - Find & Share on GIPHY.gif
+" width="100%" height="150px" style="object-fit: cover;" alt="Pixel Art Decor" />
 </p>
-
-<div align="center">
-
-# Hi 👋 I'm Ketilyn Biason
 
 ### Product Owner & Front-end Developer | UNISO
 
