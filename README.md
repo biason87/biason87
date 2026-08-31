@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1ZHJjcWp4OGtwbW94Z3RmdnhreGpwNDdrMHRzZGxwcWdtcW43NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPa291S3152y3uM/giphy.gif" width="100%" alt="Header Banner" />
+<img src=["https://user-images.githubusercontent.com/73097560/115834477-db03a200-a427-11eb-8653-319fe18c95c2.gif"](https://pin.it/4F4eui4Rs) width="100%" alt="Header Banner" />
 
 # Hi 👋 I'm Ketilyn Biason
 
 ### Product Owner & Front-end Developer | UNISO
 
-</div>
+---
 
 ## 🌐 Connect with Me
 
