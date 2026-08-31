@@ -33,7 +33,7 @@
 
 ---
 
-## 👩‍💻 Sobre mim
+## 👾 Sobre mim
 
 <font face="sans-serif">
 
