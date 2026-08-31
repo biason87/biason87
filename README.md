@@ -55,7 +55,7 @@
  
 </p>
 
-## 🩸 Featured Project: DoeFácil
+## 🩸 Project: DoeFácil
 
 <font face="sans-serif">
 
