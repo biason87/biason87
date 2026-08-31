@@ -10,16 +10,16 @@
 
 </div>
 
-
+---
 
 ## 🌐 Connect with Me
 
 <p align="center">
-  </a>
-  <a href="mailto:biasonketilyn@gmail.com">
+  <a href="mailto:00127872@aluno.uniso.br">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
 ---
 
 ## 💻 Tech Stack
@@ -45,9 +45,13 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** (2º semestre) na **Universidade de Sorocaba (UNISO)**[cite: 1].
+<font face="sans-serif">
+
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** (2º semestre) na **Universidade de Sorocaba (UNISO)**[cite: 2].
 - 📚 Me aprofundando em **Banco de Dados**, **Inteligência Artificial** e **Power BI**.
 - 🛠️ Foco em unir desenvolvimento web, análise de dados e novas tecnologias para criar soluções de alto impacto.
+
+</font>
 
 ---
 
@@ -62,13 +66,17 @@
 
 ## 🩸 Featured Project: DoeFácil
 
-Plataforma digital para incentivo à doação de sangue e geolocalização de hemocentros em tempo real[cite: 1].
-- **Papel:** Product Owner (P.O.) e Desenvolvedora[cite: 1].
+<font face="sans-serif">
+
+Plataforma digital para incentivo à doação de sangue e geolocalização de hemocentros em tempo real[cite: 2].
+- **Papel:** Product Owner (P.O.) e Desenvolvedora[cite: 2].
 - 🔗 **Deploy no ar:** [doefacil-ecru.vercel.app](https://doefacil-ecru.vercel.app)
 - 📁 **Código no GitHub:** [github.com/biason87/doefacil](https://github.com/biason87/doefacil)
+
+</font>
 
 <br>
 
 <p align="center">
   <sub>Desenvolvido com 💜 por Ketilyn Biason</sub>
-</p>D
+</p>
