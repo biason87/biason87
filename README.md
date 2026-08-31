@@ -56,7 +56,7 @@
 
 
 <p align="center">
-  <img src="Pixel Art Gallery.gif" width="100%" height="180px" style="object-fit: cover;" alt="Pixel Art Decor" />
+  <img src="Pixel Art Gallery.gif" width="100%" height="380px" style="object-fit: cover;" alt="Pixel Art Decor" />
 </p>
 
 <p align="center">
