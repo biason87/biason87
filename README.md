@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Ketilyn Biason</h1>
 
 <p align="center">
-  <img src="download (5).gif" width="120%" height="150px" style="object-fit: cover;" alt="Pixel Art Decor" />
+  <img src="download (5).gif" width="100%" height="230px" style="object-fit: cover;" alt="Pixel Art Decor" />
 </p>
 
 ### Product Owner & Front-end Developer | UNISO
