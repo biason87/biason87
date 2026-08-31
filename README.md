@@ -58,10 +58,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="Pixel Art Gallery.gif" width="120px" alt="Pixel Art Decor" />
+</p>
+
+<p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=biason87&show_icons=true&theme=dark&hide_border=true" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biason87&layout=compact&theme=dark&hide_border=true" />
 </p>
-
 ---
 
 ## 🩸 Featured Project: DoeFácil
