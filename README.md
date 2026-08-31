@@ -18,9 +18,8 @@
 ## 👩‍💻 Sobre Mim
 
 * 🎓 Cursando **Análise e Desenvolvimento de Sistemas** (2º semestre) na **Universidade de Sorocaba (UNISO)**.
-* 💡 Liderando o projeto **DoeFácil** como **Product Owner**, articulando escopo (TAP), cronograma via Kanban/Trello e apoio técnico com a **Colsan Sorocaba**.
-* 🛠️ Apaixonada por unir **UX/UI, Psicologia do Design e Inteligência Artificial** para criar produtos web focados em impacto social.
-* 🎯 Atualmente aprimorando conhecimentos em **React.js, TypeScript e Métodos Ágeis**.
+* 📚 Realizando cursos complementares para aprofundamento prático nas áreas de **Banco de Dados**, **Inteligências Artificiais** e **Power BI**.
+* 🛠️ Foco em unir desenvolvimento web, análise de dados e novas tecnologias para a criação de soluções eficientes e de alto impacto.
 
 ---
 
