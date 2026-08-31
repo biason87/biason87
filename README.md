@@ -4,7 +4,7 @@
   <img src="download (5).gif" width="100%" height="230px" style="object-fit: cover;" alt="Pixel Art Decor" />
 </p>
 
-### Product Owner & Front-end Developer | UNISO
+
 
 </div>
 
