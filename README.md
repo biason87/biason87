@@ -39,7 +39,7 @@
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** (2º semestre) na **Universidade de Sorocaba |UNISO**
 - 📚 Me aprofundando em **Banco de Dados**, **Inteligência Artificial** e **Power BI**.
-- 🛠️ Foco em unir desenvolvimento web, análise de dados e novas tecnologias para criar soluções de alto impacto.
+
 
 </font>
 
