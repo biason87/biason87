@@ -1,4 +1,4 @@
-<h1 align="center">Estudante</h1>
+<h1 align="center"></h1>
 
 <p align="center">
   <img src="download (5).gif" width="100%" height="230px" style="object-fit: cover;" alt="Pixel Art Decor" />
@@ -69,5 +69,5 @@ Plataforma digital para incentivo à doação de sangue e geolocalização de he
 <br>
 
 <p align="center">
-  <sub>Desenvolvido com 💜 por Ketilyn Biason</sub>
+  <sub></sub>
 </p>
