@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src=["https://user-images.githubusercontent.com/73097560/115834477-db03a200-a427-11eb-8653-319fe18c95c2.gif"](https://pin.it/4F4eui4Rs) width="100%" alt="Header Banner" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db03a200-a427-11eb-8653-319fe18c95c2.gif" width="100%" alt="Header Banner" />
 
 # Hi 👋 I'm Ketilyn Biason
 
