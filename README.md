@@ -23,7 +23,7 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,vite,tailwind,mysql,git,github,vscode,figma,vercel,gcp" width="100%" height="530px" style="object-fit: cover;" alt="Pixel Art Decor"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,vite,tailwind,mysql,git,github,vscode,figma,vercel,gcp" width="100%" height="330px" style="object-fit: cover;" alt="Pixel Art Decor"/>
 </p>
 
 <p align="center">
