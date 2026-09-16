@@ -1,7 +1,7 @@
 <h1 align="center"> </h1>
 
 <p align="center">
-  <img src="![Pixel Art Decor](pixel-art-banner.gif)" width="100%" height="230px" style="object-fit: cover;" alt="Pixel Art Decor" />
+  <img src="pixel-art-banner.gif" width="100%" height="230px" style="object-fit: cover;" alt="Pixel Art Decor" />
 </p>
 
 
@@ -51,7 +51,7 @@
 
 
 <p align="center">
-  <img src="![Pixel Art Decor](pixel-art-gallery.gif)" width="100%" height="380px" style="object-fit: cover;" alt="Pixel Art Decor" />
+  <img src="pixel-art-gallery.gif" width="100%" height="380px" style="object-fit: cover;" alt="Pixel Art Decor" />
 </p>
 
 <p align="center">
