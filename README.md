@@ -63,7 +63,7 @@
 Plataforma digital para incentivo à doação de sangue e geolocalização de hemocentros em tempo real.
 - **Papel:** Product Owner (P.O.) e Desenvolvedora.
 - 🔗 **Deploy no ar:** [doefacil-ecru.vercel.app](https://doefacil-ecru.vercel.app)
-- 📁 **Repertório no GitHub:** [github.com/biason87/doefacil](https://github.com/biason87/doefacil)
+- 📁 **Repository no GitHub:** [github.com/biason87/doefacil](https://github.com/biason87/doefacil)
 
 </font>
 
