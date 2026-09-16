@@ -32,8 +32,6 @@
 [![Kanban/Trello](https://img.shields.io/badge/Kanban_Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)]()
 
 
-**🌱 Estudando atualmente:** Banco de Dados, Inteligência Artificial e Power BI
-
 ---
 
 ## 👾 Sobre mim
