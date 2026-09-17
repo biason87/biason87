@@ -17,8 +17,6 @@
 
 ---
 
-## 💻 Tech Stack
-
 ![](https://skillicons.dev/icons?i=js,ts,html,css,react,vite,tailwind,firebase,git,github,vscode,figma,vercel,gcp)
 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
@@ -28,21 +26,15 @@
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
 [![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=google&logoColor=white)](https://aistudio.google.com)
 
-[![Product Owner](https://img.shields.io/badge/Product_Owner-4A154B?style=for-the-badge)]()
+[![Product Owner](https://img.shields.io/badge/Product_Owner-4A154B?style=for-the-badge)](https://github.com/biason87/doefacil)
 [![Kanban/Trello](https://img.shields.io/badge/Kanban_Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)]()
-
 
 ---
 
 ## 👾 Sobre mim
 
-<font face="sans-serif">
-
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** (2º semestre) na **Universidade de Sorocaba |UNISO**
-- 📚 Me aprofundando em **Banco de Dados**, **Inteligência Artificial** e **Power BI**.
-
-
-</font>
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** (2º semestre) na **Universidade de Sorocaba | UNISO**
+- 🌱 Estudando atualmente: **Banco de Dados**, **Inteligência Artificial** e **Power BI**
 
 ---
 
@@ -61,9 +53,10 @@
 <font face="sans-serif">
 
 Plataforma digital para incentivo à doação de sangue e geolocalização de hemocentros em tempo real.
-- **Papel:** Product Owner (P.O.) e Desenvolvedora.
+
+- **Papel:** Product Owner (P.O.) e Desenvolvedora Front-end
 - 🔗 **Deploy no ar:** [doefacil-ecru.vercel.app](https://doefacil-ecru.vercel.app)
-- 📁 **Repository no GitHub:** [github.com/biason87/doefacil](https://github.com/biason87/doefacil)
+- 📁 **Código no GitHub:** [github.com/biason87/doefacil](https://github.com/biason87/doefacil)
 
 </font>
 
