@@ -10,7 +10,6 @@
 
 ---
 🎯 **Buscando oportunidade de estágio em Desenvolvimento de Software** (Front-end / Full-stack)
-
 ## 📫 Contato
 
 [![Gmail](https://img.shields.io/badge/-biasonketilyn@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:biasonketilyn@gmail.com)
